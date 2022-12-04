@@ -1,4 +1,5 @@
-# !This is a pack that combines stable-diffusion web ui, novelai, waifu-diffusion and all moduls, unblocked NSFW.
+# This is a pack that combines Stable-Diffusion web ui, Novelai, Waifu-Diffusion and all moduls, unblocked NSFW.
+# Optimized Stable-Diffusion for videocards <= 4gb.
 
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
